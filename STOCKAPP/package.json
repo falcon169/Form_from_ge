@@ -2,9 +2,8 @@
   "name": "STOCKAPP",
   "lockfileVersion": 3,
   "requires": true,
-  "packages": {
-    "": {
-      "name": "STOCKAPP"
-    }
+  "packages": {},
+  "scripts": {
+    "start": "node script.js"
   }
 }
